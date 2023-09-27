@@ -39,3 +39,21 @@
         letter-spacing: 0;
     }
 }
+
+@media screen and (max-width: 320px){
+    .game{        
+        width: 320px;
+        height: 320px;
+        gap: 4px;
+        
+    }
+    .item{
+        width: 77px;
+        height: 77px;
+        font-size: 40px;
+    }
+    h2{
+        font-size: 1.5rem;
+        letter-spacing: 0;
+    }
+}
